@@ -1,0 +1,22 @@
+{
+  "name": "types-assert-loader",
+  "version": "0.0.1",
+  "description": "types-assert loader for module for webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeitaMoromizato/types-assert-loader.git"
+  },
+  "author": "Keita Moromizato <keita.moromi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KeitaMoromizato/types-assert-loader/issues"
+  },
+  "homepage": "https://github.com/KeitaMoromizato/types-assert-loader#readme",
+  "dependencies": {
+    "types-assert": "0.0.2"
+  }
+}
