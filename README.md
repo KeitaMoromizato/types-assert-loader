@@ -35,8 +35,7 @@ interface Interface1 {
 
 
 ```
-import assert from 'types-assert/assert';
-
+import { assert } from 'types-assert/assert';
 import { Interface1 } from './type.ts';
   
 const obj1 = {

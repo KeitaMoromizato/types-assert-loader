@@ -6,6 +6,10 @@
   "scripts": {
     "test": "exit 0"
   },
+  "keywords": [
+    "types-assert",
+    "webpack"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/KeitaMoromizato/types-assert-loader.git"
@@ -17,6 +21,6 @@
   },
   "homepage": "https://github.com/KeitaMoromizato/types-assert-loader#readme",
   "dependencies": {
-    "types-assert": "0.0.2"
+    "types-assert": "0.0.3"
   }
 }
